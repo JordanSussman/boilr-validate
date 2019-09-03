@@ -1,4 +1,4 @@
-A validation hook to {{Description}}. _Please note this project requires Drone server version 1.4 or higher._
+A validation extension to {{Description}}. _Please note this project requires Drone server version 1.4 or higher._
 
 ## Installation
 

@@ -1,6 +1,6 @@
 # boilr-validate
 
-This is a boilr template for creating a configuration validation hook. Get started by cloning the project and installing the template:
+This is a boilr template for creating a validation extension. Use a validation extension to create and enforce custom yaml linting rules. Get started by cloning the project and installing the template:
 
 ```console
 $ cd boilr-validate
